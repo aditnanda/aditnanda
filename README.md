@@ -3,8 +3,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=aditnanda.aditnanda)
 [![Github](https://img.shields.io/github/followers/aditnanda?label=Follow&style=social)](https://github.com/aditnanda)
 
-- 🔭 I’m currently working on Fit Tech Inova Global
-- 🌱 I’m currently developing a Mobile app with Java/Kotlin (Native) and Web App with Laravel
+- 🔭 I’m currently working on Fit Tech Inova Global and Herdina Metatech Sinergi
+- 🌱 I’m currently developing a Mobile app with Java/Kotlin/Flutter and Web App with Laravel
 - 👯 I’m looking to collaborate with anyone on any project
 - 💬 Ask me about anything
 
